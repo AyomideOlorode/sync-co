@@ -16,3 +16,17 @@ It’s designed to:
 - Showcase the rhythm of innovation through clean design and simplicity.
 
 ---
+
+✨ Vision
+
+Sync.co isn’t just a platform — it’s a movement.
+We believe creativity should be accessible, collaborative, and timeless.
+
+💬 Let’s Collaborate
+
+If you’re passionate about building the future of education, design, or creative technology — Sync.co wants to work with you.
+
+📧 Contact: haywhystudios@gmail.com
+founders@sync.co
+
+🔗 Website: [coming soon…]
