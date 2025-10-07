@@ -1,22 +1,18 @@
-# SYNC.CO
+# Sync.co 🌐
 
-**Where innovation finds rhythm — Students Yesterday, Now Creatives**
+**Where Innovation Finds Rhythm**
 
-SYNC.CO is a prelaunch project and digital campus that helps students and young creatives turn school learning into real creative work, verifiable projects, and paid short assignments.
+Sync.co is a modern creative and technology initiative for students, developers, and visionaries building the next era of innovation.  
+Our mission is to create a synchronized hub for **learning, creativity, and collaboration** — empowering talents to move from **idea to impact**.
 
-## Vision
-To build a global ecosystem where creativity and verified skills become the primary signal for hiring, collaboration, and opportunity.
+---
 
-## Mission
-Bridge the gap between education and creative careers through project-based learning, verified credentials, paid micro-briefs, and community support.
+## 🚀 Project Overview
 
-## Quicklinks
-- Tech: React + Vite + TailwindCSS
-- Deploy: Netlify
-- Tagline: *Where innovation finds rhythm.*
+This is the **prelaunch landing page** for the Sync.co ecosystem.  
+It’s designed to:
+- Introduce the brand and vision.
+- Collect interest from early adopters.
+- Showcase the rhythm of innovation through clean design and simplicity.
 
-## Run locally (after clone)
-```bash
-npm install
-npm run dev
-
+---
